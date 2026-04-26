@@ -10,4 +10,7 @@
 
 | №  | Тема задания                              | Репозиторий                               |
 |----|-------------------------------------------|-------------------------------------------|
-| 1  | Реализация алгоритма поиска с опечатками  | [ASOIU_Slednev_HW1](https://github.com/programmeryandex/ASOIU_Slednev_HW1)   | 
+| 1  | ИДЗ1                                      | [ASOIU_Slednev_HW1](https://github.com/programmeryandex/ASOIU_Slednev_HW1)   | 
+| №  | Тема задания                              | Репозиторий                               |
+|----|-------------------------------------------|-------------------------------------------|
+| 1  | ИДЗ2                                      | [ASOIU_Slednev_HW2](https://github.com/programmeryandex/ASOIU_Slednev_HW2)   | 
